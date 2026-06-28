@@ -26,8 +26,6 @@ int main() {
 		answer_by_age = ",  you are very wise for your age.";
 	}
 
-
-
 	std::cout << "Hello " << name << answer_by_age<< std::endl;
 	
 
